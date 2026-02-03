@@ -53,14 +53,14 @@ Static.html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Teju Portfolio - Tabs</title>
+    <title>Prasanna Portfolio - Tabs</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="container">
-        <h1>Teju Portfolio</h1>
+        <h1>Prasanna Portfolio</h1>
 
         <!-- Radio Buttons -->
         <input type="radio" name="tab" id="about" checked>
@@ -90,8 +90,8 @@ Static.html
 
             <div class="tab-content contact">
                 <h2>Contact Me</h2>
-                <p>Email: teju@example.com</p>
-                <p>LinkedIn: linkedin.com/in/teju</p>
+                <p>Email: Prasanna@example.com</p>
+                <p>LinkedIn: linkedin.com/in/Prasanna/p>
             </div>
         </div>
     </div>
@@ -172,6 +172,10 @@ input[type="radio"] {
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
+![Uploading image.png…]()
+
+<img width="1269" height="993" alt="image" src="https://github.com/user-attachments/assets/85876a08-f814-4bea-8d1c-c292232ef5ce" />
+
+![Uploading image.png…]()
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
